@@ -53,6 +53,8 @@ The goal of a [human user guide](https://github.com/matthewmccullough/human-inte
 
 ### How do you coach people to do their best work and develop their talents?
 * I like answering questions that demonstrate curiosity and/or personal investment. The best "how do I do X?" questions include details about what you're actually trying to accomplish and what you've tried yourself so far.
+* I've been told that I'm an excellent communicator, with a healthy attention to detail, tact, and empathy. I have frequently been asked to proofread written communication, and I'm happy to assist in this way.
+* I love code review as a tool for upleveling the team, and am happy to be asked for code review. I work hard at avoiding comments related to style, taste, or preference. I specifically work hard at refraining from commenting on _names_ of things unless I find them actively confusing or misleading.
 	
 ### What’s the best way to communicate with you?
 * In Slack, in a public channel, whenever possible and appropriate.
