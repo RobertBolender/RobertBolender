@@ -17,8 +17,10 @@ The goal of a [human user guide](https://github.com/matthewmccullough/human-inte
   - 4 years of full-stack development with C# and React
   - 3 years (and counting!) of full-stack development with Go, Ruby on Rails, and React
 - Some highlights of projects I've shipped so far in my 3 years at GitHub:
-  - Adding support for secret scanning in user-owned repositories, previously only available to organization-owned repositories
-  - Adding support for non-provider patterns (such as SSH keys) where previously we only had patterns for secrets connected to a partner (either GitHub or a third party)
+  - Added a feature for storing detected secrets in encrypted form to unblock several improved user experiences ([changelog](https://github.blog/changelog/2022-10-24-secret-scanning/))
+  - Added support for non-provider patterns (such as SSH keys) where previously we only had patterns for secrets connected to a partner (either GitHub or a third party) ([changelog](https://github.blog/changelog/2023-11-06-secret-scanning-expands-detection-to-include-non-provider-patterns-beta))
+  - Added support for secret scanning in user-owned repositories, previously only available to organization-owned repositories ([changelog](https://github.blog/changelog/2024-02-23-secret-scanning-supports-user-namespace-repositories-for-enterprise-managed-users))
+  - Added a feature for labeling detected secrets found in public locations or in multiple locations ([changelog](https://github.blog/changelog/2024-10-22-secret-scanning-improvements-for-alerts-with-known-public-leaks-and-enterprise-duplicates))
 
 ### What are some honest, unfiltered things about you?
 * I'm an introvert and sometimes need time alone to process new information before being able to discuss it intelligently.
