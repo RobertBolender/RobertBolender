@@ -57,7 +57,7 @@ The goal of a [human user guide](https://github.com/matthewmccullough/human-inte
 * I love code review as a tool for upleveling the team, and am happy to be asked for code review. I work hard at avoiding comments related to style, taste, or preference. I specifically work hard at refraining from commenting on _names_ of things unless I find them actively confusing or misleading.
 	
 ### What’s the best way to communicate with you?
-* In Slack, in a public channel, whenever possible and appropriate.
+* In Slack, in a public channel, whenever possible and appropriate. It's totally cool to send me a DM informing me of a thread in a public channel, either with extra context (if needed) or just to make sure I see it.
 * Asking questions in public allows for knowledge sharing with others who may benefit from a question they wouldn't have thought to ask. It also allows for others to answer questions more quickly if I'm busy.
 * Feel free to @mention me as many times as you like. I keep all my notifications permanently off, my phone will not make noise and you will not disturb me. I review all of my mentions and will respond to each of them.
 * I'm not _against_ Zoom calls or meetings, but I feel that they are generally not the best way to _start_ a conversation. If we've started a discussion asynchronously and have discovered specific questions/topics that could benefit from synchronous discussion, by all means let's put something on the calendar (and send invitations!)
